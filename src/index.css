@@ -3,10 +3,10 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: prodsans;
-  src: url(../font/Product\ Sans\ Regular.ttf);
+  font-family: JetBrains;
+  src: url(../fonts/JetBrainsMonoNL-Regular.ttf);
 }
 
 * {
-  font-family: prodsans;
+  font-family: JetBrains;
 }
